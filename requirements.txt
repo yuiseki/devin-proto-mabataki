@@ -1,0 +1,15 @@
+gradio>=5.0.0
+torch
+torchvision
+opencv-python
+numpy
+Pillow
+mediapipe
+imageio
+controlnet-aux
+diffusers
+transformers
+accelerate
+pytest
+TTS
+soundfile
