@@ -10,3 +10,6 @@ controlnet-aux
 diffusers
 transformers
 accelerate
+pytest
+TTS
+soundfile
